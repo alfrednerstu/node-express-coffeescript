@@ -1,25 +1,19 @@
-# Readme
+# node-express-coffeescript
 
-A simple Node template with Express, CoffeeScript and Jade.
+A simple Node template with Express, CoffeeScript, Jade and Connect.
 
 ## Dependencies
-This template can be used to create Node applications using;
+This template can be used to create [Node](http://nodejs.org) applications using;
 
-* Express
-* CoffeeScript!
-* Jade
-* Connect
-
-[NodeJs](http://nodejs.org)
-[Express](http://expressjs.com)
-[CoffeeScript](http://jashkenas.github.com/coffee-script)
-[Jade](http://jade-lang.com/)
-[Connect](http://senchalabs.github.com/connect/)
+* [Express](http://expressjs.com)
+* [CoffeeScript](http://jashkenas.github.com/coffee-script)
+* [Jade](http://jade-lang.com/)
+* [Connect](http://senchalabs.github.com/connect/)
 
 ## Install
 
 ```
-# Install Node.js and npm
+# Install Node and npm
 npm install connect
 npm install express
 npm install coffee-script
@@ -40,5 +34,5 @@ node app.js
 
 * [Tom Wilson](https://github.com/twilson63) for express-coffee the original behind this template and readme 
 * [Jeremy Ashkenas](https://github.com/jashkenas) for coffee-script
-* [TJ Holowaychuk](https://github.com/visionmedia) for express and jade and connect
+* [TJ Holowaychuk](https://github.com/visionmedia) for express, jade and connect
 * [Ryan Dahl](https://github.com/ry) for node
